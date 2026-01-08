@@ -1,3 +1,34 @@
-pandas
-requests
-psycopg2-binary
+# 🏗️ Modern Data Stack Architecture
+
+The project follows a modern "Data Stack" architecture designed for scalability and analytical depth:
+
+
+
+---
+
+## ⚙️ The Engine (Python & Core Libraries)
+* **Python:** Orchestrates the entire ETL (Extract, Transform, Load) process.
+* **Pandas:** Handles data cleaning, filtering, and CSV manipulation.
+* **Requests:** Manages interactions with the **Open-Meteo** and **Nominatim (Geocoding)** APIs.
+* **Psycopg2:** Acts as the high-performance bridge between Python logic and the PostgreSQL database.
+
+---
+
+## 🏛️ The Warehouse (PostgreSQL)
+
+
+The relational database is organized into a **Star Schema** to ensure efficient data retrieval and clear relational mapping:
+
+### 1. Fact Tables
+* Stores numerical "measurements" or quantitative data.
+* **Key Metrics:** Temperature, humidity, and atmospheric pressure.
+
+### 2. Dimension Tables
+* Stores the "context" or descriptive attributes.
+* **Key Attributes:** City names, country scores, and geographic coordinates.
+
+---
+
+## 📊 Data Science & Visualization
+* **Matplotlib & Seaborn:** Used to generate professional-grade scatter plots, histograms, and heatmaps for visual analysis.
+* **SciPy:** Utilized for advanced statistical testing, including **Pearson Correlation** and **P-value** calculations to validate data relationships.
