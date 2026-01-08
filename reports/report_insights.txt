@@ -1,0 +1,42 @@
+GLOBAL HAPPINESS vs TEMPERATURE ANALYSIS
+Generated: January 08, 2026 at 08:35 PM
+======================================================================
+
+📈 Overall Statistics:
+   • Average global happiness: 5.43 (±1.25)
+   • Average temperature: 16.8°C (±10.4°C)
+   • Happiness range: 0.00 - 7.06
+   • Temperature range: -8.2°C - 32.2°C
+
+🌡️ Temperature Extremes:
+   • Coldest: Moscow,Russia, Russia (-8.2°C, happiness: 5.79)
+   • Warmest: Garissa,Kenya, Kenya (32.2°C, happiness: 4.47)
+
+😊 Happiness Extremes:
+   • Happiest: Melbourne,Australia, Australia (Score: 7.06, Temp: 19.8°C)
+   • Least happy: Luanda,Angola, Angola (Score: 0.00, Temp: 26.3°C)
+
+❄️🌞 Climate Comparison:
+   • Cold cities (<10°C): Avg happiness 6.32 (31 cities)
+   • Warm cities (>25°C): Avg happiness 4.45 (27 cities)
+
+🇰🇪 Kenya Deep Dive:
+   • Cities tracked: 30
+   • Average happiness: 4.47 (↓0.96 vs global avg)
+   • Average temperature: 22.8°C
+   • Temperature range: 12.8°C - 32.2°C
+   • Cities: Eldoret,Kenya, Nairobi,Kenya, Machakos,Kenya, Nyeri,Kenya, Nyeri,Kenya, Nyeri,Kenya, Thika,Kenya, Thika,Kenya, Thika,Kenya, Nakuru,Kenya, Nakuru,Kenya, Nakuru,Kenya, Eldoret,Kenya, Eldoret,Kenya, Kisumu,Kenya, Kisumu,Kenya, Kisumu,Kenya, Mombasa,Kenya, Mombasa,Kenya, Mombasa,Kenya, Nairobi,Kenya, Nairobi,Kenya, Kakamega,Kenya, Kakamega,Kenya, Kakamega,Kenya, Garissa,Kenya, Garissa,Kenya, Garissa,Kenya, Machakos,Kenya, Machakos,Kenya
+
+🏆 Top 5 Happiest Cities:
+   1. Melbourne,Australia, Australia - 7.06 (Temp: 19.8°C)
+   2. Sydney,Australia, Australia - 7.06 (Temp: 19.5°C)
+   3. Sydney,Australia, Australia - 7.06 (Temp: 19.5°C)
+   4. Sydney,Australia, Australia - 7.06 (Temp: 19.7°C)
+   5. Melbourne,Australia, Australia - 7.06 (Temp: 19.8°C)
+
+======================================================================
+Statistical Summary:
+  • Correlation: -0.4524
+  • P-value: 0.000000
+  • Cities analyzed: 131
+  • Countries covered: 32
